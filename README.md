@@ -22,3 +22,5 @@ This summarization method is applicable across many domains. In journalism, it c
 
 In conclusion, this extractive text summarizer demonstrates how traditional NLP techniques—when combined with graph theory and mathematical tools—can effectively summarize large volumes of text. The implementation in Google Colab allows for easy accessibility and testing, making it an ideal learning project for understanding the fundamentals of natural language processing and text summarization.
 
+*OUTPUT*
+https://github.com/user-attachments/assets/6328f07d-631e-4473-b345-121ac509b52b
